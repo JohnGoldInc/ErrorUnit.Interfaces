@@ -6,7 +6,7 @@
     <title>$title$</title>
     <authors>johngoldinc</authors>
     <owners>johngoldinc</owners>
-    <projectUrl>http://johngoldinc.com</projectUrl>
+    <projectUrl>https://github.com/JohnGoldInc/ErrorUnit.Interfaces</projectUrl>
     <iconUrl>http://johngoldinc.com/img/ErrorUnitLargeLogo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The ErrorUnit.Interfaces namespace contains classes for extending ErrorUnit; allowing developers to integrate their own logger or IoC interception and make them compatible with ErrorUnit.</description>
