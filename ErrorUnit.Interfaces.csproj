@@ -54,6 +54,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ErrorUnit.Interface.1.0.0.0.nupkg" />
+    <None Include="ErrorUnit.Interfaces.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
