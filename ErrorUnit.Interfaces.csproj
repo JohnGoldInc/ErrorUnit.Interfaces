@@ -57,6 +57,7 @@
     <None Include="ErrorUnit.Interface.1.0.0.0.nupkg" />
     <None Include="ErrorUnit.Interfaces.nuspec" />
     <None Include="packages.config" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
