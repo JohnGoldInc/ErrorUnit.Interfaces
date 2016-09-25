@@ -17,8 +17,8 @@
         /// </summary>
         /// <typeparam name="T">The IoC container type.</typeparam>
         /// <param name="ioc">The IoC container.</param>
-        /// <param name="jsonSerializer">The json serializer.</param>
+        /// <param name="errorUnitCentral">The ErrorUnitCentral.Instance.</param>
         /// <returns>The IoC container with ErrorUnit interception enabled.</returns>
-        T LinkInjector<T>(T ioc, IJsonSerializer jsonSerializer);
+        T LinkInjector<T>(T ioc, IErrorUnitCentral errorUnitCentral);
     }
 }
