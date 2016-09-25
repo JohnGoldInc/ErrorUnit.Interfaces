@@ -47,6 +47,7 @@
     <Compile Include="ErrorUnit.Interfaces.cs" />
     <Compile Include="IErrorInfo.cs" />
     <Compile Include="IErrorPrecondition.cs" />
+    <Compile Include="IErrorUnitCentral.cs" />
     <Compile Include="IInjector.cs" />
     <Compile Include="IJsonSerializer.cs" />
     <Compile Include="ILogger.cs" />
@@ -54,7 +55,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ErrorUnit.Interface.1.0.0.0.nupkg" />
     <None Include="ErrorUnit.Interfaces.nuspec" />
     <None Include="packages.config" />
     <None Include="README.md" />
