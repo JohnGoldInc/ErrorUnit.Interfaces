@@ -8,6 +8,7 @@ namespace ErrorUnit.Interfaces
     /// Abstract class for creating an IErrorPrecondition, please inherit from this.
     /// </summary>
     /// <seealso cref="ErrorUnit.Interfaces.IErrorPrecondition" />
+    [Serializable]
     public abstract class aErrorPrecondition : IErrorPrecondition
     {
 
